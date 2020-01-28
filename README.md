@@ -1,1 +1,5 @@
-This is Awesome!!
+Repository to go over:
+  vagrant
+  emacs
+  vi
+  github
